@@ -4,7 +4,7 @@ A tool to generate random and strong passwords accordingly with user's input on 
 
 ## Preview
 
-!('Preview of a password generator website')[https://github.com/amandakenes/password-generator/blob/main/images/preview.png]
+!['Preview of a password generator website'](https://github.com/amandakenes/password-generator/blob/main/images/preview.png)
 
 ## Techs used
 
